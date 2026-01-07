@@ -6,7 +6,9 @@ Image Deblurring using U-Net Architecture with Skip Connections
 
 ## 📋 프로젝트 개요
 
-흐릿하게 촬영된 이미지로부터 선명한 이미지를 복원하는 CNN 기반 Deep Learning 프로젝트입니다. ResNet과 U-Net 구조를 결합하여 효과적인 deblurring 성능을 달성했습니다.
+흐릿하게 촬영된 이미지로부터 선명한 이미지를 복원하는 CNN 기반 Deep Learning 프로젝트입니다. 
+
+ResNet과 U-Net 구조를 결합하여 효과적인 deblurring 성능을 달성했습니다.
 
 네트워크의 구조 및 설계 과정은 Assignment.pdf로 첨부하였습니다.
 
