@@ -10,7 +10,7 @@ Image Deblurring using U-Net Architecture with Skip Connections
 
 ResNet과 U-Net 구조를 결합하여 효과적인 deblurring 성능을 달성했습니다.
 
-네트워크의 구조 및 설계 과정은 Assignment.pdf로 첨부하였습니다.
+네트워크의 구조 및 설계 과정은 **Assignment.pdf**로 첨부하였습니다.
 
 **Environment**: RTX 3080 GPU
 
