@@ -34,9 +34,7 @@ Image Deblurring using U-Net Architecture with Skip Connections
 
 | Input (Blurred) | Output (Deblurred) |
 |-----------------|-------------------|
-| ![Input](<img width="512" height="512" alt="01" src="https://github.com/user-attachments/assets/693df66e-8c2c-47dd-9e93-eb984f6fef97" />
-) | ![Output](<img width="512" height="512" alt="deblurred_01" src="https://github.com/user-attachments/assets/746cfa2e-f2f9-4c3f-9682-3146dee4b7fb" />
-) |
+|(<img width="512" height="512" alt="01" src="https://github.com/user-attachments/assets/693df66e-8c2c-47dd-9e93-eb984f6fef97" />) | <img width="512" height="512" alt="deblurred_01" src="https://github.com/user-attachments/assets/746cfa2e-f2f9-4c3f-9682-3146dee4b7fb" />) |
 
 효과적인 blur 제거 및 선명한 이미지 복원 확인
 
